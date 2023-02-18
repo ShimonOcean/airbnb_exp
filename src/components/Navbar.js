@@ -3,7 +3,7 @@ import AibnbIcon from "../images/airbnb-logo.png"
 
 function Navbar() {
     return (
-        <nav>
+        <nav className = "nav--main">
             <img className="nav--img" src={AibnbIcon} alt="Airbnb Icon"/>
         </nav>
     )
