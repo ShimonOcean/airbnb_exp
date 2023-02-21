@@ -16,3 +16,14 @@ body {
 .nav--img {
   max-width: 100px;
 }
+
+.hero--container {
+  font-family: Poppins;
+  padding: 20px 42px;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero--img {
+  
+}
